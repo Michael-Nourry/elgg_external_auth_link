@@ -12,15 +12,15 @@ Details of the options:
      Group: Group with the link in the bar
      CSS Selector: To place the link
 
-For more links simply separate sites by, in each field
+For more links simply separate sites by ";" in each field
                          (newline possible).
                          For exmple for two links:
                         - Link text: textlien1; textlien2
                          - URL: http://lien1/; http://lien2/
                          - Secret: secret1; secret2
-                         - TimeOut: 10, 30
-                         - Group: group1, group2
-                         - CSS Selector: # elgg_topbar_container_left; # tutu
+                         - TimeOut: 10;30
+                         - Group: group1;group2
+                         - CSS Selector: #elgg_topbar_container_left;#tutu
 
 
 
